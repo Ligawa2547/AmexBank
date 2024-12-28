@@ -1,0 +1,4 @@
+# bunfig.toml for Bun projects
+entry = "app/pages/index.tsx"
+output = "build"
+
