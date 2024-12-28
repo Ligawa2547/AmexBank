@@ -1,7 +1,4 @@
 {
-  "name": "wgu-elearning",
-  "version": "1.0.0",
-  "private": true,
   "description": "Western Governors University eLearning platform for students to access courses and resources.",
   "author": "Western Governors University",
   "scripts": {
@@ -18,7 +15,7 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.17.0",
     "react-icons": "^4.11.0",
-    "react-toastify": "^9.2.1"
+    "react-toastify": "^9.1.3" 
   },
   "devDependencies": {
     "eslint": "^8.54.0",
